@@ -5,7 +5,7 @@
 This repository contains the assignments for NYU CUSP Principles of Urban Informatics 2016. 
 Check here for the new assignments, and for the solutions to be posted. For class material please go [here](https://github.com/fedhere/UInotebooks) (including the lecture slides, [here](https://github.com/fedhere/UInotebooks/tree/master/slides)).
 
-As the class ended, [here] https://github.com/fedhere/PUI2016_fb55/blob/master/final_results/class%20result%20statistics.ipynb
+As the class ended, [here] (https://github.com/fedhere/PUI2016_fb55/blob/master/final_results/class%20result%20statistics.ipynb)
  are some statistics on the class results.
  
 Welcome to CUSP and to Principles of Urban Informatics!
